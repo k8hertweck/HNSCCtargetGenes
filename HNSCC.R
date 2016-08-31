@@ -8,8 +8,9 @@ library(tidyr)
 library(ggplot2)
 
 # import data
-system("sed 's/(.*$//g' HNSCCgeneData.csv > temp")
+system("sed 's/(.*$//g' data/HNSCCgeneData.csv > temp")
 dat <- read.delim("temp")
+system("rm temp")
 
 # plot by gene and type of mutation
 ggplot(dat, aes(gene, fill=where_in_gene)) + geom_bar(position="dodge") + geom_bar(position="dodge", colour="black", show_guide=FALSE) + scale_fill_brewer(palette="Set1", name="location in\ngene") + ylab("number of mutations") + theme_bw()
@@ -25,15 +26,7 @@ ggplot(CDS, aes(gene, fill=annot_cancer)) + geom_bar(position="dodge") + geom_ba
 ggsave(file="figures/synnonsyn.pdf")
 
 # import filtered data
-filt <- read.delim("HNSCCgeneTable.csv") 
+filt <- read.delim("data/HNSCCgeneTable.csv") 
 
 ggplot(filt, aes(gene)) +geom_bar() + ylab("number of mutations") + theme_bw()
 ggsave(file="figures/filterednonsyn.pdf")
-
-# parse data by gene and type of mutation
-geneType <- dat %>%
-  group_by(gene, where_in_gene) %>%
-  tally() %>%
-  spread(where_in_gene, n) %>%
-  transform(total=sum(2:7, na.rm=TRUE))
-geneType <- transform(geneType, total=rowSums(geneType[,2:7], na.rm=TRUE))
