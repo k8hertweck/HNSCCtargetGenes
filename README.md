@@ -12,4 +12,4 @@ Workflow:
 * `candidateGenes.lst` is a list of target genes
 * `table.sh` is the script used to derive the `.csv` files in `data/`
 * `HNSCC.R` is the R script used to obtain figures from parsed gene data
-* `figures/` contains figures produced from `HNSCC.R` (to be released with publication)
+* `figures/` contains figures produced from `HNSCC.R` 
