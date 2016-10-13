@@ -1,6 +1,7 @@
 # HNSCCtargetGenes
 
 Genomic analysis of HPV-induced oropharyngeal cancer (paired tumor/normal samples).
+Raw data are available from NCBI SRA #SRP081299
 
 Workflow:
 * sequencing, SNP calling and annotation performed by Otogenetics (http://www.otogenetics.com)
