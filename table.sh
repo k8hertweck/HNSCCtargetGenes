@@ -1,6 +1,6 @@
 ## HNSSC
-## Building table of non-synonymous somatic mutations for verified genes 
-## Data formet
+## Building table of non-synonymous mutations for targeted genes 
+## Data format
 ##	$DATA with the following columns: 1 chr, 2 left_cancer (position), 15 gene, 17 annot_cancer
 
 DATA=~/Dropbox/cancerGenomics/HNSCC/data/Ot6699_Ot6700_Santanu.Dasgupta_300-923_hEx-AV4_30x_01132013_Cancer_Nucleotide_Variation.csv
@@ -20,7 +20,7 @@ head -1 $DATA > target_CDS.csv
 grep CDS targetGenes.csv >> target_CDS.csv
 # extract nonsynonymous from CDS
 grep -v synonymous target_CDS.csv > target_nonsyn.csv
-# extract unique from nonsynonymous
+# extract unique from nonsynonymous (inspect zygosity to ensure somatic)
 grep -v rs[0-9]* target_nonsyn.csv > target_unique.csv
 # format for publication table
 echo -e "gene\tchromosome\tposition\tmutation\ttype" > temp
@@ -35,5 +35,5 @@ head -1 $DATA > HNSCC_CDS.csv
 grep CDS $DATA >> HNSCC_CDS.csv
 # extract nonsynonymous from CDS
 grep -v synonymous HNSCC_CDS.csv > HNSCC_nonsyn.csv
-# extract unique from nonsynonymous
+# extract unique from nonsynonymous 
 grep -v rs[0-9]* HNSCC_nonsyn.csv > HNSCC_unique.csv
