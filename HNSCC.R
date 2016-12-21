@@ -4,10 +4,12 @@
 #install.packages("tidyr")
 #install.packages("ggplot2")
 #install.packages("stringr")
+#install.packages("gridExtra")
 library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(stringr)
+library(gridExtra)
 
 # import data
 # complete data
@@ -65,30 +67,32 @@ tarNonsym <- datTarget %>%
   tally()
 tarUnique <- datTarget %>%
   filter(where_in_gene == "CDS") %>%
-  filter(str_detect(annot_cancer, "synonymous")) %>%
-  filter(str_detect(dbsnp, "rs")) %>%
+  filter(!str_detect(annot_cancer, "synonymous")) %>%
+  filter(!str_detect(dbsnp, "rs")) %>%
   group_by(gene) %>%
   tally()
 CDS.Nonsyn.Uniq.Target <- cbind(tarCDS, tarNonsym$n, tarUnique$n)
 
 # A: somatic mutations in target genes based on location in gene
-ggplot(datTarget, aes(gene, fill=where_in_gene)) + 
+A <- ggplot(datTarget, aes(gene, fill=where_in_gene)) + 
   geom_bar(position="dodge", colour="black", show.legend=FALSE) + 
   scale_fill_brewer(palette="Set1", name="location in\ngene") + 
   ylab("number of somatic mutations") + 
   xlab("genes harboring mutations") + 
   theme_bw() + 
   theme(axis.text.x=element_text(size=8))
-ggsave(file="figures/2A.TargetGeneSomaticMutationLocation.pdf")
+A
+ggsave("figures/A.jpg")
 
 # B: total somatic mutations in target genes
-ggplot(datTarget, aes(gene)) + 
+B <- ggplot(datTarget, aes(gene)) + 
   geom_bar(colour="black", show.legend=FALSE) + 
   ylab("number of total somatic mutations") + 
   xlab("genes harboring mutations") + 
   theme_bw() + 
   theme(axis.text.x=element_text(size=8))
-ggsave(file="figures/2B.totalSomaticMutationsTargetGenes.pdf")
+B
+ggsave("figures/B.jpg")
 
 # C: somatic mutations in CDS by synonymous/nonsynonymous
 CDS <- datTarget %>%
@@ -97,20 +101,31 @@ CDS <- datTarget %>%
 CDS$annot_cancer <- sub("synonymous (.*)", "synonymous", CDS$annot_cancer)
 CDS$annot_cancer <- gsub(".*->.*", "nonsynonymous", CDS$annot_cancer)
 
-ggplot(CDS, aes(gene, fill=annot_cancer)) + 
+C <- ggplot(CDS, aes(gene, fill=annot_cancer)) + 
   geom_bar(position="dodge", colour="black", show.legend=FALSE) + 
   scale_fill_brewer(palette="Set1", name="") + 
   ylab("number of somatic CDS mutations") + 
   xlab("genes harboring mutations") + 
   theme_bw() + 
   theme(axis.text.x=element_text(size=8))
-ggsave(file="figures/2C.TargetGeneSomaticSynNonSyn.pdf")
+C
+ggsave("figures/C.jpg")
 
-# D: somatic mutations in CDS of target genes
-ggplot(filter(datTarget, where_in_gene == "CDS"), aes(gene)) + 
+# D: new somatic mutations in CDS of target genes
+unique <- datTarget %>%
+  filter(where_in_gene == "CDS") %>%
+  filter(!str_detect(dbsnp, "rs"))
+  
+D <- ggplot(unique, aes(gene)) + 
   geom_bar(colour="black", show.legend=FALSE) + 
-  ylab("number of total somatic CDS mutations") + 
+  ylab("number of new somatic CDS mutations") + 
   xlab("genes harboring mutations") +
   theme_bw() + 
   theme(axis.text.x=element_text(size=8))
-ggsave(file="figures/2D.CDS.SomaticMutationsTargetGenes.pdf")
+D
+ggsave("figures/D.jpg")
+
+# combine plots
+jpeg(file="figures/combined.jpg")
+grid.arrange(A, B, C, D, ncol=2)
+dev.off()
