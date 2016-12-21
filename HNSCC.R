@@ -1,13 +1,13 @@
 ## HNSCC summary of variation in genes of interest
 
-install.packages("dplyr")
-install.packages("tidyr")
-install.packages("ggplot2")
-install.packages("stringr")
+#install.packages("dplyr")
+#install.packages("tidyr")
+#install.packages("ggplot2")
+#install.packages("stringr")
 library(dplyr)
 library(tidyr)
 library(ggplot2)
-library(string)
+library(stringr)
 
 # import data
 # complete data
@@ -49,8 +49,6 @@ datSom %>%
   filter(where_in_gene == "CDS") %>%
   filter(str_detect(annot_cancer, "->")) %>%
   tally() # 1110 nonsynonymous
-# evaluate zygosity
-
 
 # assess number of somatic mutations per target gene
 tarAll <- datTarget %>%
@@ -73,26 +71,46 @@ tarUnique <- datTarget %>%
   tally()
 CDS.Nonsyn.Uniq.Target <- cbind(tarCDS, tarNonsym$n, tarUnique$n)
 
-# plot number of somatic mutations in target genes (total) 
-ggplot(datTarget, aes(gene)) + geom_bar(colour="black", show.legend=FALSE) + ylab("number of mutations") + theme_bw()
-ggsave(file="figures/2C.totalSomaticMutationsTargetGenes.pdf")
-# plot number of somatic mutations in target genes (total) 
-ggplot(filter(datTarget, where_in_gene == "CDS"), aes(gene)) + geom_bar(colour="black", show.legend=FALSE) + ylab("number of mutations") + theme_bw()
-ggsave(file="figures/2C.CDS.SomaticMutationsTargetGenes.pdf")
-# plot number of somatic mutations in target genes (novel) 
-ggplot(datUnique, aes(gene)) + geom_bar(colour="black", show.legend=FALSE) + ylab("number of mutations") + theme_bw()
-ggsave(file="figures/2D.novelSomaticMutationsTargetGenes.pdf")
-
-# plot number of somatic mutations in target genes based on location in gene
-ggplot(datTarget, aes(gene, fill=where_in_gene)) + geom_bar(position="dodge", colour="black", show.legend=FALSE) + scale_fill_brewer(palette="Set1", name="location in\ngene") + ylab("number of mutations") + theme_bw()
+# A: somatic mutations in target genes based on location in gene
+ggplot(datTarget, aes(gene, fill=where_in_gene)) + 
+  geom_bar(position="dodge", colour="black", show.legend=FALSE) + 
+  scale_fill_brewer(palette="Set1", name="location in\ngene") + 
+  ylab("number of somatic mutations") + 
+  xlab("genes harboring mutations") + 
+  theme_bw() + 
+  theme(axis.text.x=element_text(size=8))
 ggsave(file="figures/2A.TargetGeneSomaticMutationLocation.pdf")
 
-# plot target gene somatic mutations by synonymous/nonsynonymous
+# B: total somatic mutations in target genes
+ggplot(datTarget, aes(gene)) + 
+  geom_bar(colour="black", show.legend=FALSE) + 
+  ylab("number of total somatic mutations") + 
+  xlab("genes harboring mutations") + 
+  theme_bw() + 
+  theme(axis.text.x=element_text(size=8))
+ggsave(file="figures/2B.totalSomaticMutationsTargetGenes.pdf")
+
+# C: somatic mutations in CDS by synonymous/nonsynonymous
 CDS <- datTarget %>%
   select(gene, where_in_gene, annot_cancer) %>%
   filter(where_in_gene == "CDS")
 CDS$annot_cancer <- sub("synonymous (.*)", "synonymous", CDS$annot_cancer)
 CDS$annot_cancer <- gsub(".*->.*", "nonsynonymous", CDS$annot_cancer)
-  
-ggplot(CDS, aes(gene, fill=annot_cancer)) + geom_bar(position="dodge", colour="black", show.legend=FALSE) + scale_fill_brewer(palette="Set1", name="") + ylab("number of mutations") + theme_bw()
-ggsave(file="figures/2B.TargetGeneSomaticSynNonSyn.pdf")
+
+ggplot(CDS, aes(gene, fill=annot_cancer)) + 
+  geom_bar(position="dodge", colour="black", show.legend=FALSE) + 
+  scale_fill_brewer(palette="Set1", name="") + 
+  ylab("number of somatic CDS mutations") + 
+  xlab("genes harboring mutations") + 
+  theme_bw() + 
+  theme(axis.text.x=element_text(size=8))
+ggsave(file="figures/2C.TargetGeneSomaticSynNonSyn.pdf")
+
+# D: somatic mutations in CDS of target genes
+ggplot(filter(datTarget, where_in_gene == "CDS"), aes(gene)) + 
+  geom_bar(colour="black", show.legend=FALSE) + 
+  ylab("number of total somatic CDS mutations") + 
+  xlab("genes harboring mutations") +
+  theme_bw() + 
+  theme(axis.text.x=element_text(size=8))
+ggsave(file="figures/2D.CDS.SomaticMutationsTargetGenes.pdf")
