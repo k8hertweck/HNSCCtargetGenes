@@ -10,10 +10,17 @@ cd $SCRIPTS/data
 ## all data
 # extract all possible variants
 cut -f 10,11 Ot6699*.csv | sort | uniq -c > variantTypes.txt
+cut -f 10 Ot6699*.csv | sort | uniq | awk 'BEGIN {FS="/"} {if ($1 == $2) print $0}' > homozygotes.txt 
 
 # extract all strictly somatic variants
 awk '{if($10 == "a/a" || $10 == "c/c" || $10 == "t/t" || $10 == "g/g" || $10 == "/") next;
 	else print $0}' Ot6699*.csv > all_somatic.csv
+# extract homozygotes from all somatic variants
+head -1 all_somatic.csv > homozoygous_somatic.csv
+for x in `cat homozygotes.txt`
+	do
+		awk -v X=$x -F "\t" '{if ($10 == X) print $0; else next}' all_somatic.csv >> homozoygous_somatic.csv
+done
 
 # extract CDS from somatic
 head -1 all_somatic.csv > HNSCC_CDS.csv
@@ -24,7 +31,7 @@ grep -v synonymous HNSCC_CDS.csv > HNSCC_nonsyn.csv
 grep -v rs[0-9]* HNSCC_nonsyn.csv > HNSCC_unique.csv
 
 ## target genes
-# extract all data from target genes
+# extract all somatic data from target genes
 head -1 all_somatic.csv > targetGenes.csv
 for x in `cat $SCRIPTS/candidateGenes.lst`
 	do
