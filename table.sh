@@ -1,26 +1,52 @@
 ## HNSSC
-## Building table of non-synonymous somatic mutations for verified genes 
-## Dependencies
-##	candidateGenes.lst
+## Building table of non-synonymous mutations for targeted genes 
+## Data format
 ##	$DATA with the following columns: 1 chr, 2 left_cancer (position), 15 gene, 17 annot_cancer
 
-DATA=data/Ot6699_Ot6700_Santanu.Dasgupta_300-923_hEx-AV4_30x_01132013_Cancer_Nucleotide_Variation.csv
+SCRIPTS=~/GitHub/HNSCCtargetGenes
 
+cd $SCRIPTS/data
+
+## all data
+# extract all possible variants
+cut -f 10,11 Ot6699*.csv | sort | uniq -c > variantTypes.txt
+cut -f 10 Ot6699*.csv | sort | uniq | awk 'BEGIN {FS="/"} {if ($1 == $2) print $0}' > homozygotes.txt 
+
+# extract all strictly somatic variants
+awk '{if($10 == "a/a" || $10 == "c/c" || $10 == "t/t" || $10 == "g/g" || $10 == "/") next;
+	else print $0}' Ot6699*.csv > all_somatic.csv
+# extract homozygotes from all somatic variants
+head -1 all_somatic.csv > homozoygous_somatic.csv
+for x in `cat homozygotes.txt`
+	do
+		awk -v X=$x -F "\t" '{if ($10 == X) print $0; else next}' all_somatic.csv >> homozoygous_somatic.csv
+done
+
+# extract CDS from somatic
+head -1 all_somatic.csv > HNSCC_CDS.csv
+grep "\tCDS\t" all_somatic.csv >> HNSCC_CDS.csv
+# extract nonsynonymous from CDS
+grep -v synonymous HNSCC_CDS.csv > HNSCC_nonsyn.csv
+# extract unique from nonsynonymous 
+grep -v rs[0-9]* HNSCC_nonsyn.csv > HNSCC_unique.csv
+
+## target genes
+# extract all somatic data from target genes
+head -1 all_somatic.csv > targetGenes.csv
+for x in `cat $SCRIPTS/candidateGenes.lst`
+	do
+		grep $x Ot6699*.csv >> targetGenes.csv
+done	
+# extract CDS from somatic	
+head -1 all_somatic.csv > target_CDS.csv
+grep "\tCDS\t" targetGenes.csv >> target_CDS.csv
+# extract nonsynonymous from CDS
+grep -v synonymous target_CDS.csv > target_nonsyn.csv
+# extract unique from nonsynonymous (inspect zygosity to ensure somatic)
+grep -v rs[0-9]* target_nonsyn.csv > target_unique.csv
+# format for publication table
 echo -e "gene\tchromosome\tposition\tmutation\ttype" > temp
-
-# compile data from all genes
-for x in `cat candidateGenes.lst`
-	do
-		grep $x $DATA | grep CDS | grep -v synonymous | grep -v rs[0-9]* | cut -f 1,2,8,15,17 | sed 's/(.*$//g' | awk -F "\t" 'BEGIN{OFS="\t"}{print $4,$1,$2,$5,$3}' >> temp
-	done
-
+tail +2 target_unique.csv | cut -f 1,2,8,15,17 | sed 's/(.*$//g' | awk -F "\t" 'BEGIN{OFS="\t"}{print $4,$1,$2,$5,$3}' >> temp
 # clean up mutation types
-sed 's/SNP/missense/' temp | sed 's/MNP/missense/' | sed 's/INS/frameshift/' | sed 's/DEL/frameshift/' > data/HNSCCgeneTable.csv
+sed 's/SNP/missense/' temp | sed 's/MNP/missense/' | sed 's/INS/frameshift/' | sed 's/DEL/frameshift/' > HNSCCgeneTable.csv
 rm temp
-
-# create table to import into R containing all data for genes of interest
-head -1 $DATA > data/HNSCCgeneData.csv
-for x in `cat candidateGenes.lst`
-	do
-		grep $x $DATA >> data/HNSCCgeneData.csv
-	done

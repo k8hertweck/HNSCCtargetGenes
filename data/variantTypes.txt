@@ -1,0 +1,2184 @@
+ 282 /	
+   8 /	/
+  32 /	/a
+   4 /	/aa
+   2 /	/aaa
+   1 /	/aaaa
+   1 /	/aaaaa
+   1 /	/aaga
+   1 /	/aat
+   3 /	/ac
+   1 /	/aca
+   1 /	/acac
+   1 /	/acacacacac
+   1 /	/acctc
+   1 /	/act
+   5 /	/ag
+   1 /	/agtaa
+   1 /	/agtatc
+   4 /	/at
+   1 /	/ataat
+   1 /	/atg
+  16 /	/c
+   3 /	/ca
+   1 /	/caca
+   1 /	/cacaca
+   1 /	/cacacaca
+   1 /	/cagagcg
+   4 /	/cc
+   1 /	/cct
+   1 /	/cctg
+   1 /	/cga
+   1 /	/cgcaggg
+   1 /	/cgcgtgtgtg
+   1 /	/cgggg
+   1 /	/ct
+   1 /	/ctctga
+   1 /	/ctgat
+   1 /	/ctt
+  17 /	/g
+   3 /	/ga
+   1 /	/gaagt
+   1 /	/gac
+   1 /	/gag
+   1 /	/gatc
+   1 /	/gctt
+   1 /	/gg
+   1 /	/gga
+   1 /	/ggggggg
+   2 /	/gt
+   1 /	/gtaaag
+   1 /	/gttt
+   1 /	/gtttcat
+  43 /	/t
+   4 /	/ta
+   1 /	/taca
+   1 /	/taccttttag
+   2 /	/tata
+   1 /	/tc
+   2 /	/tcc
+   1 /	/tctg
+   3 /	/tg
+   1 /	/tga
+   1 /	/tggc
+   1 /	/tgta
+   1 /	/tgtgtg
+   9 /	/tt
+   1 /	/tta
+   1 /	/ttc
+   1 /	/ttca
+   2 /	/ttt
+   3 /	a/a
+   2 /	a/aa
+   1 /	a/c
+   1 /	attt/tttttattt
+   1 /	c/c
+   1 /	c/t
+   1 /	c/tt
+   2 /	g/g
+   1 /	gt/gt
+   1 /	t/g
+   1 /	t/gt
+   2 /	t/t
+   3 /	t/tt
+   1 /	tgtgtgtg/tgcgcgcg
+   1 /	tt/tt
+   1 /	tt/ttt
+ 347 /a	
+  39 /a	/
+   1 /a	/a
+  11 /a	/aa
+   2 /a	/aaa
+   1 /a	/at
+   1 /a	/ta
+   2 /a	a/a
+  23 /a	a/aa
+   2 /a	a/aaa
+   2 /a	aa/aaa
+   1 /a	aag/aaag
+   2 /a	c/ac
+   1 /a	g/aag
+   1 /a	g/ag
+   1 /a	ga/aaga
+  50 /aa	
+   5 /aa	/
+   4 /aa	/a
+   2 /aa	/aaa
+   1 /aa	a/a
+   5 /aa	a/aa
+   7 /aa	a/aaa
+   1 /aa	aa/aaa
+   1 /aa	ag/ag
+  16 /aaa	
+   1 /aaa	/aa
+   2 /aaa	/aaaa
+   1 /aaa	a/a
+   1 /aaa	a/aaaa
+   1 /aaa	aa/aaaa
+   1 /aaa	aa/ga
+   1 /aaa	aagat/aaaaagat
+   1 /aaa	g/aaag
+   6 /aaaa	
+   1 /aaaa	/
+   1 /aaaa	/a
+   1 /aaaa	/aaaaa
+   1 /aaaa	a/a
+   1 /aaaa	a/c
+   1 /aaaa	g/aag
+   5 /aaaaa	
+   1 /aaaaa	/aa
+   1 /aaaaa	a/a
+   3 /aaaaaa	
+   1 /aaaaaaa	
+   1 /aaaaaaa	a/aaaaaaaa
+   1 /aaaaaaa	ga/aaaaaaaaga
+   1 /aaaaaaa	ga/aaaaaaaga
+   1 /aaaaaaaa	
+   1 /aaaaaaaaa	
+   1 /aaaaac	
+   2 /aaaag	
+   1 /aaaat	
+   1 /aaaatcc	
+   1 /aaacaaac	
+   1 /aaacaga	ta/ac
+   1 /aaagaa	/aa
+   1 /aaatt	
+   1 /aac	
+   1 /aaca	
+   1 /aacaca	
+   1 /aactgt	
+   1 /aag	
+   1 /aag	/aaaa
+   1 /aag	agg/agg
+   2 /aaga	
+   1 /aagaaggggt	
+   1 /aagg	
+   1 /aagttt	
+   1 /aat	
+   2 /aatt	
+  15 /ac	
+   1 /ac	/
+   1 /ac	/acac
+   1 /ac	/c
+   1 /ac	ac/ac
+   2 /ac	ac/acac
+   1 /ac	aca/t
+   1 /ac	c/cac
+   1 /ac	tt/tt
+   1 /aca	
+   1 /aca	/caca
+   1 /acaa	/
+   1 /acaaa	
+  12 /acac	
+   1 /acac	/
+   1 /acacac	
+   2 /acacac	/
+   1 /acacac	/tcacac
+   1 /acacac	ac/acacac
+   1 /acacac	ac/acacacac
+   1 /acacac	ac/acacacacac
+   1 /acacac	acac/acacac
+   1 /acacacac	
+   1 /acacacac	/acacac
+   1 /acacacac	t/a
+   1 /acacacacac	
+   1 /acacacat	
+   1 /acag	
+   1 /acag	/
+   1 /acatgtgt	
+   1 /act	
+   1 /actact	/a
+   1 /actc	a/t
+   1 /actcct	
+   9 /ag	
+   1 /ag	/
+   2 /aga	
+   2 /aga	/
+   1 /aga	c/a
+   1 /agaa	
+   1 /agaaa	
+   1 /agaact	
+   1 /agag	
+   1 /agagagag	
+   1 /agc	
+   2 /agg	
+   1 /aggca	
+   1 /agggc	
+   9 /at	
+   1 /at	/
+   1 /ata	
+   1 /atatc	
+   1 /atc	
+   2 /atca	
+   1 /atcc	
+   3 /atct	
+   1 /atct	/
+   1 /atctatt	
+   1 /atg	
+   1 /atggt	
+   1 /atgtgac	
+   3 /att	
+   2 /atta	
+   3 /attg	
+   1 /attta	
+   1 /atttattt	
+   1 /atttattt	/
+   1 /atttt	
+  53 /c	
+  16 /c	/
+   1 /c	/ccc
+   1 /c	c/c
+   1 /c	t/c
+   1 /c	t/tt
+  27 /ca	
+   3 /ca	/
+   1 /ca	/c
+   4 /ca	/caca
+   1 /ca	/cacaca
+   2 /ca	ca/caca
+   2 /caa	
+   1 /caa	/
+   2 /caaa	
+   1 /caaa	/
+   1 /caaaa	
+   1 /caaaa	/
+   1 /caaaaa	
+   1 /caatt	
+   1 /cac	
+   1 /cac	/
+   3 /caca	
+   2 /caca	/
+   1 /caca	/ca
+   1 /caca	/cacaca
+   1 /caca	ca/caca
+   1 /caca	ca/cacaca
+   1 /caca	caca/tata
+   5 /cacaca	
+   1 /cacaca	/caca
+   1 /cacaca	t/c
+   1 /cacacaca	
+   1 /cacacacaca	/caca
+   2 /cag	
+   2 /caga	
+   1 /cat	/taa
+   1 /cat	cgt/cat
+   1 /cat	t/c
+   1 /cata	
+   1 /cataa	
+   1 /catca	
+   5 /cc	
+   2 /cc	/
+   1 /cc	/c
+   1 /cc	/ccc
+   1 /cc	c/c
+   1 /cca	
+   1 /ccag	/
+   1 /cccc	
+   1 /ccct	
+   1 /cccttgga	
+   2 /ccg	
+   1 /ccggcc	
+   2 /cct	
+   1 /cctaccta	
+   1 /ccttcct	/c
+   1 /ccttctt	t/c
+   1 /cg	
+   1 /cgccgc	
+   1 /cggcctgg	/
+  18 /ct	
+   1 /ct	/ctttt
+   2 /ctat	
+   2 /ctc	
+   2 /ctca	
+   2 /ctct	
+   1 /ctg	
+   1 /ctg	/
+   1 /ctgccgc	
+   1 /ctgctg	c/t
+   1 /ctgt	
+   3 /ctt	
+   1 /ctt	/
+   1 /ctt	/cttt
+   1 /cttaa	
+   1 /cttc	
+   3 /cttt	
+   1 /ctttt	
+  68 /g	
+  16 /g	/
+   1 /g	/g
+   2 /g	a/g
+   1 /g	c/gc
+   1 /g	t/g
+   7 /ga	
+   1 /gaa	
+   2 /gaa	/
+   1 /gaa	aa/ga
+   1 /gaaa	
+   1 /gaaaagaa	a/g
+   1 /gaag	gaag/gaag
+   1 /gaaggag	/
+   1 /gaatag	
+   1 /gac	/c
+   1 /gaca	
+   1 /gacagacaca	/
+   1 /gacta	
+   1 /gactt	
+   2 /gag	
+   1 /gag	/
+   2 /gaga	
+   1 /gaga	tt/ga
+   1 /gagaaa	/
+   1 /gagaag	
+   1 /gagaga	
+   1 /gagc	
+   1 /gagg	/
+   1 /gagg	/agaggag
+   1 /gagggagg	
+   1 /gagt	
+   1 /gata	
+   1 /gatccct	/
+   1 /gatg	
+   1 /gatt	
+   3 /gc	
+   1 /gca	/
+   1 /gcaaa	
+   1 /gcacgcctc	/
+   1 /gcagagg	/
+   1 /gcagca	/
+   1 /gcc	
+   1 /gcc	/
+   1 /gcct	
+   1 /gcg	/
+   1 /gcgccc	/cgccc
+   1 /gcgt	/t
+   1 /gctg	
+   3 /gg	
+   1 /gg	/ggg
+   1 /gg	/tgtgtgtggg
+   1 /gg	ttt/tttggt
+   1 /gga	aga/gga
+   1 /ggagatggag	
+   1 /ggaggtga	
+   1 /ggat	
+   1 /ggcag	/
+   1 /ggg	
+   1 /gggaatcaaa	aa/tc
+   1 /gggg	/gg
+   1 /gggg	aaaaa/aaaaa
+   1 /ggggcct	/
+   1 /ggt	
+   1 /ggtgtg	/tgtggg
+  21 /gt	
+   1 /gt	/gt
+   3 /gt	/gtgt
+   2 /gt	gt/gtgt
+   1 /gt	gt/gtgtgt
+   1 /gta	
+   1 /gtct	
+   1 /gtct	/
+   3 /gtg	
+   7 /gtgt	
+   1 /gtgt	/gt
+   1 /gtgt	/gtgt
+   1 /gtgt	/gtgtgt
+   1 /gtgt	gt/gtgt
+   1 /gtgtg	
+   1 /gtgtgt	
+   1 /gtgtgt	c/g
+   1 /gtgtgt	gt/gtgtgt
+   1 /gtgtgt	gt/gtgtgtgt
+   1 /gtgtgtgt	
+   1 /gtgtgtgt	/gtgt
+   1 /gtgtgtgt	/gtgtgt
+   1 /gtgtgtgt	/gtgtgtgt
+   1 /gtgtgtgt	gt/gt
+   3 /gtgtgtgtgt	
+   1 /gtgtgtgtgt	/gtgtgtgt
+   3 /gtt	
+   4 /gttt	
+   1 /gttt	t/g
+   3 /gtttt	
+   1 /gtttt	/
+   1 /gttttctg	
+ 349 /t	
+  42 /t	/
+   5 /t	/t
+   1 /t	/tct
+  11 /t	/tt
+   1 /t	/ttt
+   1 /t	a/a
+   1 /t	a/ttta
+   1 /t	c/tc
+   1 /t	g/t
+   1 /t	g/tg
+   1 /t	t/t
+  20 /t	t/tt
+   2 /t	t/ttt
+   2 /t	tt/ttt
+   8 /ta	
+   1 /ta	c/t
+   1 /ta	gac/tac
+   2 /taa	
+   1 /taac	
+   1 /taag	
+   1 /taat	aaat/taat
+   1 /taattgtat	t/g
+   1 /tacaca	/tacacaca
+   1 /tag	
+   1 /tagt	
+   4 /tat	
+   1 /tatata	
+   1 /tatc	
+   2 /tatg	
+   1 /tatt	/
+   9 /tc	
+   1 /tc	/
+   1 /tc	t/c
+   2 /tc	t/t
+   2 /tca	
+   1 /tcac	/acag
+   1 /tcac	a/a
+   1 /tcattcat	
+   2 /tcc	
+   1 /tcc	tcc/tcctcc
+   1 /tcct	
+   2 /tct	
+   1 /tcta	
+   2 /tctc	
+   1 /tctc	/
+   1 /tctc	tc/tctctc
+   1 /tctct	/
+   1 /tctctc	
+   1 /tctctctc	
+   1 /tctctctctc	
+   1 /tctg	/
+   1 /tctgct	
+   1 /tctgctgc	
+   1 /tctggac	
+   2 /tctt	
+  16 /tg	
+   1 /tg	/attg
+   1 /tg	/tgtg
+   1 /tga	/tgatcccagg
+   1 /tgaggg	
+   1 /tgagtaaggt	
+   1 /tggcag	
+   1 /tggggtg	
+   2 /tgt	
+   1 /tgtat	
+   1 /tgtcaa	
+   1 /tgtg	/cgtg
+   1 /tgtgg	
+   2 /tgtgtg	
+   1 /tgtgtg	tg/tgtgtg
+   1 /tgtgtgtg	
+   1 /tgtgtgtg	a/t
+   1 /tgtgtgtg	tgtgtg/tgtgtgtg
+   2 /tgtgtgtgtg	
+   1 /tgttt	/gttt
+  77 /tt	
+   6 /tt	/
+  13 /tt	/t
+   2 /tt	/tt
+   1 /tt	c/ttc
+   1 /tt	g/tg
+   1 /tt	g/tt
+   7 /tt	t/tt
+   1 /tt	t/ttt
+   2 /tta	
+   1 /ttaa	
+   1 /ttat	/
+   1 /ttatat	
+   2 /ttc	
+   3 /ttc	/
+   1 /ttct	/
+   1 /ttctag	
+   1 /ttg	
+   1 /ttg	ctg/ttg
+   1 /ttga	/tttg
+   1 /ttgaaaaca	
+   1 /ttgagc	
+   1 /ttgtgtgt	gt/ttgtgtgt
+  15 /ttt	
+   2 /ttt	/
+   2 /ttt	/t
+   3 /ttt	/tt
+   2 /ttt	/tttt
+   1 /ttt	c/ttc
+   3 /ttt	t/ttt
+   1 /ttt	t/tttt
+   1 /ttt	t/ttttt
+   1 /ttt	tt/ttt
+   1 /ttt	tttt/gttt
+   2 /ttta	
+   1 /tttat	
+   1 /tttat	/
+   1 /tttata	/
+   2 /tttg	
+   4 /tttt	
+   1 /tttt	/cttt
+   1 /tttt	/t
+   1 /tttt	/ttttttt
+   1 /tttt	t/ttt
+   3 /ttttg	
+   3 /ttttt	
+   1 /ttttt	/tttt
+   1 /ttttt	ttt/ttt
+   1 /ttttta	
+   1 /tttttt	/tttt
+   1 /ttttttt	
+   2 /tttttttt	
+   1 /tttttttttt	
+ 214 a/	
+  35 a/	a/a
+   1 a/	aaa/
+1352 a/a	
+   6 a/a	/
+   3 a/a	/a
+   1 a/a	/aa
+  45 a/a	a/
+   1 a/a	a/a
+ 131 a/a	a/c
+ 536 a/a	a/g
+  69 a/a	a/t
+   2 a/a	aa/aa
+   1 a/a	aa/ag
+   1 a/a	aa/ct
+   1 a/a	aaat/at
+   3 a/a	ac/ac
+   2 a/a	ag/ag
+   1 a/a	ag/ga
+   3 a/a	at/at
+   1 a/a	at/gc
+   4 a/a	ca/ca
+   1 a/a	ca/cg
+   1 a/a	ga/ga
+   1 a/a	ta/ta
+  18 a/aa	
+   4 a/aa	/
+  27 a/aa	/a
+   5 a/aa	/aa
+   1 a/aa	a/
+   1 a/aa	a/aa
+   1 a/aa	a/aaa
+   2 a/aa	aa/
+   1 a/aa	aa/aaa
+   1 a/aa	ag/aag
+   1 a/aa	c/ac
+   4 a/aaa	
+   2 a/aaa	/aa
+   1 a/aaa	a/aa
+   1 a/aaa	a/aaaa
+   2 a/aaaa	
+   1 a/aaaa	/aaa
+   1 a/aaaaaa	/aaaaa
+ 713 a/c	
+   1 a/c	/c
+   1 a/c	/ca
+  69 a/c	a/a
+   1 a/c	a/cat
+   1 a/c	a/g
+   2 a/c	aa/ac
+   4 a/c	aa/ca
+   1 a/c	aa/cc
+   1 a/c	aaa/c
+   1 a/c	c/g
+   2 a/c	ca/cc
+   1 a/c	g/c
+   1 a/c	ta/cc
+   1 a/c	ta/ta
+   1 a/c	ta/tc
+   1 a/c	tca/tcc
+2217 a/g	
+   1 a/g	/aagagtgtg
+   1 a/g	/gtgtgtgtgt
+ 345 a/g	a/a
+   1 a/g	a/ag
+   1 a/g	a/c
+   1 a/g	a/t
+   1 a/g	aa/ac
+   2 a/g	aa/ag
+   6 a/g	aa/ga
+   1 a/g	aaa/aag
+   1 a/g	aaaa/aaag
+   1 a/g	aca/acg
+   1 a/g	ag/cg
+   5 a/g	ag/gg
+   1 a/g	at/gc
+   2 a/g	at/gt
+   2 a/g	c/g
+   1 a/g	ca/ag
+  11 a/g	ca/cg
+   1 a/g	ct/tg
+   1 a/g	g/c
+   1 a/g	g/tgg
+   8 a/g	ga/gg
+   1 a/g	gaaag/aaaaagaaag
+   1 a/g	t/g
+   1 a/g	ta/tg
+   1 a/g	tg/cg
+ 444 a/t	
+   1 a/t	/t
+  74 a/t	a/a
+   1 a/t	a/c
+   3 a/t	aa/at
+   1 a/t	aa/tg
+   1 a/t	aa/tt
+   1 a/t	ag/ct
+   1 a/t	ag/tg
+   1 a/t	at/tt
+   1 a/t	atg/tac
+   2 a/t	c/t
+   1 a/t	g/t
+   1 a/t	t/g
+   2 a/t	t/t
+   1 a/ta	
+   1 a/ttta	/tttt
+  17 aa/	
+   1 aa/	a/
+   2 aa/	a/a
+   1 aa/	a/aa
+   6 aa/	aa/aa
+   1 aa/	aaa/
+  12 aa/aa	
+   3 aa/aa	a/a
+   1 aa/aa	a/aa
+   1 aa/aa	a/aaa
+   1 aa/aa	a/aaaa
+   4 aa/aa	aa/
+   1 aa/aa	aaa/tgt
+   2 aa/aaa	
+   1 aa/aaa	/a
+   1 aa/aaa	/aa
+   1 aa/aaa	aaa/aaaa
+   1 aa/aaaa	a/aaaa
+   1 aa/aaaa	aa/aaaaa
+   3 aa/ac	
+   2 aa/ac	a/c
+   7 aa/ag	
+   1 aa/ag	/a
+   3 aa/ag	a/g
+   1 aa/ag	aa/gg
+   1 aa/ag	g/ag
+   1 aa/c	aa/ac
+   1 aa/ca	
+   2 aa/ca	a/c
+   1 aa/caaa	/ca
+   5 aa/cc	
+   1 aa/cc	aa/aa
+   1 aa/cg	
+   1 aa/cg	a/a
+   6 aa/ct	
+   1 aa/ct	aa/aa
+   3 aa/ga	
+   1 aa/ga	/
+   2 aa/ga	a/g
+   4 aa/gc	
+   1 aa/gc	aa/aa
+   9 aa/gg	
+   1 aa/gg	a/g
+   9 aa/gt	
+   2 aa/gt	a/g
+   1 aa/ta	aa/aa
+   4 aa/tc	
+   6 aa/tg	
+   2 aa/tt	
+   2 aa/tt	a/t
+   1 aa/tt	aa/aa
+   7 aaa/	
+   1 aaa/	a/
+   1 aaa/	aa/
+   1 aaa/	aaa/aaa
+   2 aaa/aaa	
+   2 aaa/aaa	aaa/
+   1 aaa/aaaaaaa	/aaaaa
+   1 aaa/aac	
+   1 aaa/aag	a/g
+   1 aaa/aca	
+   2 aaa/g	
+   1 aaa/ga	
+   1 aaa/gaa	a/a
+   1 aaa/gaa	a/g
+   1 aaa/ggg	
+   1 aaa/tagcaaa	
+   1 aaa/tgc	
+   1 aaa/ttc	
+   1 aaa/ttg	
+   1 aaa/ttt	
+   2 aaaa/	
+   1 aaaa/aaag	
+   1 aaaa/aaga	aaa/aaaaga
+   1 aaaa/ctcc	
+   1 aaaa/tggt	
+   1 aaaaa/	
+   1 aaaaa/aaaaa	
+   1 aaaaa/aaaaa	/aaaaa
+   1 aaaaa/aaaag	
+   1 aaaaa/aacaa	
+   1 aaaaa/t	aaaa/aaaa
+   1 aaaaaa/agaaaa	/gaaa
+   1 aaaaaaa/	aaaaaaaa/
+   1 aaaaaaaaa/	
+   1 aaaaaaaaaa/aaaaaaaaca	aaaaaaacac/aaaaaaacac
+   1 aaaacaa/	
+   1 aaaag/aaaag	
+   1 aaaagacc/	
+   1 aaac/	aaac/aaac
+   1 aaacaa/	
+   1 aaag/	
+   1 aaaga/	
+   1 aaagaaa/	
+   1 aaat/	aaat/aaat
+   1 aaat/aaat	aaat/
+   1 aaatatg/	aaatatg/aaatatg
+   1 aac/	
+   1 aaca/aaca	aaca/
+   1 aaca/caca	aaca/ca
+   1 aacat/	t/
+   1 aaccagtgc/	
+   1 aact/aact	
+   1 aact/aact	aact/
+   1 aactcc/	
+   1 aag/	
+   7 aag/	aag/aag
+   2 aag/aag	
+   4 aag/aag	aag/
+   1 aag/gcg	a/g
+   2 aaga/	
+   1 aaga/	aaga/aaga
+   1 aaga/aaga	aaga/
+   1 aagacc/aagacc	aagacc/
+   1 aagact/	
+   1 aagg/	
+   2 aagt/	
+   1 aagtt/aagtt	aagtt/
+   1 aagttc/	
+   1 aat/	aat/aat
+   2 aat/aat	
+   1 aat/aat	aat/
+   1 aat/tcc	
+   1 aata/aata	aata/
+   1 aataaag/	
+   1 aatg/aatg	
+   2 aattt/aattt	aattt/
+   1 aattta/aattta	aattta/
+  13 ac/	
+   3 ac/	ac/ac
+   1 ac/aa	
+   1 ac/aa	aac/aaa
+   4 ac/ac	
+   2 ac/ac	/ac
+   2 ac/ac	a/a
+   1 ac/ac	ac/at
+   1 ac/ac	ac/gg
+   7 ac/ac	c/c
+   1 ac/acac	/ac
+   1 ac/acac	/acac
+   1 ac/acac	ac/ac
+   1 ac/acac	acac/gc
+   1 ac/acacac	ac/acac
+   2 ac/acacacac	/acacac
+   1 ac/acacacac	/acacacac
+   1 ac/ag	
+   1 ac/at	
+   1 ac/at	a/a
+   1 ac/at	aac/aat
+   1 ac/at	at/at
+   4 ac/at	c/t
+   2 ac/ca	
+   1 ac/ca	ac/ac
+   1 ac/cacaac	/caca
+   1 ac/cc	a/c
+   1 ac/cg	
+   1 ac/cg	cg/cg
+   1 ac/ct	
+   2 ac/ga	
+   1 ac/ga	a/t
+   1 ac/gc	
+   3 ac/gc	a/g
+   3 ac/gg	
+   1 ac/gg	ac/ac
+   1 ac/gg	c/g
+   3 ac/gt	
+   1 ac/gt	a/g
+   1 ac/gt	ac/ac
+   1 ac/gt	ac/gc
+   1 ac/gt	g/a
+   1 ac/gt	gc/gt
+   1 ac/gt	gt/at
+   1 ac/tc	
+   1 ac/tc	c/c
+   1 ac/tc	c/t
+   2 ac/tg	
+   1 ac/tt	
+   1 ac/tt	ct/tt
+   1 aca/	
+   1 aca/aca	aca/
+   1 aca/ccg	a/c
+   1 aca/tgg	aca/tag
+   1 acaaaacaaa/	
+   1 acaag/	acaag/acaag
+   1 acaaggct/	
+   6 acac/	
+   1 acac/acac	
+   1 acac/gcac	
+   5 acacac/	
+   1 acacac/gcacac	/gcacac
+   2 acacacac/	
+   2 acacacacac/	
+   1 acacactc/tc	t/a
+   1 acaccctg/	
+   1 acactac/	
+   1 acat/	
+   1 acatg/	
+   2 acc/	
+   1 acc/acc	acc/
+   1 acc/acc	t/a
+   1 acc/ctc	ac/ct
+   1 accaggatg/	
+   1 acctcc/	
+   1 acgcactg/	acgcactg/acgcactg
+   1 act/act	
+   1 act/caa	c/c
+   2 acta/acta	acta/
+   1 actaa/actaa	actaa/
+   1 actc/	
+   1 actc/actc	
+   1 acttt/	
+   9 ag/	
+   4 ag/	ag/ag
+   1 ag/	agag/
+   2 ag/aa	g/a
+   1 ag/aag	/aa
+   9 ag/ag	
+   5 ag/ag	a/a
+   6 ag/ag	ag/
+   3 ag/ag	g/g
+   1 ag/at	ct/at
+   2 ag/ca	
+   1 ag/ca	ag/ag
+   1 ag/ca	t/c
+   6 ag/cc	
+   1 ag/cc	c/c
+   1 ag/cg	a/a
+   2 ag/ct	
+   6 ag/ga	
+   1 ag/ga	a/a
+   1 ag/ga	ag/ag
+   5 ag/gc	
+   1 ag/gc	ag/ag
+   1 ag/gg	
+   1 ag/gg	a/a
+   3 ag/gg	a/g
+   2 ag/gt	
+   2 ag/gt	gt/gg
+   1 ag/ta	
+   1 ag/ta	ta/ta
+   2 ag/tc	
+   1 ag/tg	a/t
+   1 ag/tg	tg/tg
+   4 ag/tt	
+   3 aga/	
+   2 aga/	aga/aga
+   2 aga/aga	
+   1 aga/aga	aga/
+   1 aga/cat	
+   2 aga/gcc	
+   1 aga/gtc	
+   2 aga/gtt	
+   1 aga/tat	
+   1 agaaa/	
+   1 agac/tcag	g/c
+   1 agag/	agag/agag
+   1 agag/agag	agag/
+   3 agat/	
+   1 agat/tata	
+   1 agata/	agata/agata
+   3 agc/	
+   1 agc/aag	
+   1 agcaa/agcaa	
+   2 agg/	
+   1 agg/aaa	
+   1 agg/acc	gg/cc
+   1 agg/ggg	a/g
+   1 agga/	
+   1 aggcagg/	
+   1 agggaggcgg/	
+   1 agt/agt	agt/
+   1 agt/ggt	a/g
+   1 agtaaa/	agtaaa/agtaaa
+   1 agtagctg/agtagctg	
+   1 agtg/agtg	a/t
+   1 agtgggcgag/	ag/
+  11 at/	
+   3 at/	at/at
+   1 at/aa	t/a
+   1 at/aat	
+   1 at/aat	t/at
+   3 at/ac	
+   2 at/ac	t/c
+   8 at/at	
+   1 at/at	a/g
+   1 at/at	a/t
+   3 at/at	at/
+   1 at/at	at/gg
+   4 at/at	t/t
+   2 at/ca	
+   6 at/cc	
+   1 at/cc	ct/cc
+   1 at/cg	
+   1 at/ct	
+   4 at/ga	
+  11 at/gc	
+   1 at/gc	t/c
+   1 at/gg	
+   1 at/gt	
+   4 at/gt	a/g
+   1 at/gt	gt/gt
+   1 at/gt	t/t
+   1 at/t	at/at
+   1 at/tc	
+   1 at/tc	ga/tc
+   3 at/tg	
+   1 at/tttttttat	
+   1 ata/	
+   1 ata/	ata/ata
+   2 ata/ata	
+   1 ata/gcg	t/t
+   1 ataa/	
+   1 ataa/ataa	
+   1 ataaa/	
+   1 ataca/	ataca/ataca
+   1 atacaa/	
+   1 atag/	
+   1 atagtt/	atagtt/atagtt
+   1 atat/	
+   3 atc/	
+   1 atc/	atc/atc
+   1 atc/cat	
+   1 atc/cct	
+   1 atcc/	
+   1 atcgaa/atcgaa	
+   1 atg/	
+   1 atg/atg	
+   1 atg/atg	atg/
+   1 atg/gcc	
+   1 atg/tca	
+   1 atg/tca	atg/tga
+   1 atga/	
+   1 atgaac/	
+   1 atgc/acac	
+   1 atgccgcccc/	
+   1 atgt/	
+   3 att/	
+   1 att/att	
+   1 att/gta	at/at
+   1 att/gtt	ggg/gtt
+   2 atta/	
+   1 atta/atta	atta/
+   1 attaac/	attaac/attaac
+   1 attaatta/	
+   1 attcc/attcc	
+   1 attg/	
+   3 attt/	
+   1 attt/attt	
+   1 atttagt/	
+   1 atttgtg/gtgtgtg	
+   1 atttt/	
+   1 atttt/	atttt/atttt
+  50 c/	
+  35 c/	c/c
+   1 c/	c/cc
+   1 c/	caccatc/
+   1 c/	cc/
+ 453 c/a	
+   2 c/a	/a
+   1 c/a	/c
+   1 c/a	/caagac
+   1 c/a	a/c
+   1 c/a	aa/ca
+   2 c/a	ac/aa
+   1 c/a	at/cc
+  70 c/a	c/c
+   1 c/a	c/t
+   3 c/a	ca/aa
+   1 c/a	caaa/aaaa
+   1 c/a	cc/ag
+   1 c/a	cc/ca
+   1 c/a	cg/cg
+   1 c/a	g/a
+   1 c/a	gc/ga
+   3 c/a	t/a
+   1 c/a	tc/ga
+   1 c/aaaac	c/aaac
+   1 c/aaac	/aaaa
+   1 c/ac	
+   2 c/ac	/a
+1539 c/c	
+   1 c/c	/
+   1 c/c	/cgggctcc
+   1 c/c	aa/cc
+   6 c/c	ac/ac
+   1 c/c	ac/ca
+  38 c/c	c/
+ 106 c/c	c/a
+ 138 c/c	c/g
+ 448 c/c	c/t
+   5 c/c	ca/ca
+   2 c/c	ca/cg
+   8 c/c	cc/cc
+   1 c/c	cc/ct
+   1 c/c	cc/gc
+   8 c/c	cg/cg
+   5 c/c	ct/ct
+   1 c/c	ct/tc
+   1 c/c	g/g
+   5 c/c	gc/gc
+   5 c/c	tc/tc
+   1 c/cac	/ac
+   1 c/cacacac	ac/acacacac
+   2 c/cc	/c
+   1 c/cc	/cc
+   1 c/ccc	/c
+   1 c/ct	ct/ct
+   1 c/cttttc	
+ 680 c/g	
+   1 c/g	a/c
+   1 c/g	a/g
+   2 c/g	ac/ag
+   1 c/g	c/a
+  82 c/g	c/c
+   1 c/g	c/t
+   1 c/g	cac/cag
+   1 c/g	cat/ggt
+   1 c/g	ct/gc
+   1 c/g	ct/gt
+   1 c/g	g/a
+   1 c/g	g/g
+   1 c/g	t/g
+1483 c/t	
+   1 c/t	/ctcttct
+   6 c/t	ac/at
+ 281 c/t	c/c
+   3 c/t	ca/ta
+   1 c/t	cac/cat
+   1 c/t	cac/ggt
+   1 c/t	cag/tct
+   1 c/t	cc/cc
+   1 c/t	cc/ct
+   1 c/t	cc/ta
+   4 c/t	cc/tc
+   1 c/t	cc/tg
+   1 c/t	cg/ta
+   7 c/t	cg/tg
+   1 c/t	cgtg/tgtg
+   1 c/t	ct/tt
+   1 c/t	ctag/ttac
+   3 c/t	gc/gt
+   1 c/t	gcg/gtg
+   2 c/t	t/t
+   1 c/tc	
+   1 c/tc	tt/tc
+   1 c/ttc	
+   1 c/ttc	tc/tttc
+  20 ca/	
+   4 ca/	ca/ca
+   2 ca/aa	c/a
+   1 ca/aaaaaca	
+   1 ca/aaaca	/aa
+   1 ca/ac	g/c
+   4 ca/ag	
+   1 ca/ag	ca/ca
+   1 ca/at	/atcc
+  17 ca/ca	
+   4 ca/ca	a/a
+   1 ca/ca	c/c
+   4 ca/ca	ca/
+   1 ca/ca	ca/cg
+   1 ca/ca	ca/tg
+   1 ca/caca	
+   1 ca/caca	/caca
+   1 ca/caca	a/a
+   1 ca/caca	ca/cacaca
+   1 ca/cacaca	/cacaca
+   1 ca/cacacaca	/cacacaca
+   1 ca/cacacacaca	/cacacaca
+   2 ca/cc	a/c
+   2 ca/cg	
+   6 ca/cg	a/g
+   1 ca/cg	ca/ca
+   1 ca/cg	ca/tg
+   2 ca/cg	cg/cg
+   1 ca/cg	cg/gg
+   1 ca/ct	
+   1 ca/ct	a/c
+   1 ca/ct	a/t
+   1 ca/ct	at/ct
+   2 ca/ga	
+   1 ca/gc	
+   4 ca/gg	
+   1 ca/gt	
+   1 ca/ta	/ta
+   1 ca/ta	c/t
+   1 ca/ta	ca/
+   3 ca/tc	
+   1 ca/tc	cac/tcc
+   1 ca/tca	
+  23 ca/tg	
+   1 ca/tg	ca/ca
+   1 ca/tg	cg/tg
+   1 ca/tg	g/a
+   1 ca/tg	t/c
+   2 ca/tg	t/t
+   1 ca/tg	tg/cg
+   2 ca/tt	
+   1 ca/tt	a/a
+   3 caa/	
+   1 caa/	caa/caa
+   1 caa/aca	
+   1 caa/caa	
+   1 caa/cgc	
+   2 caaa/	
+   2 caaa/caaa	caaa/
+   1 caaatg/caaatg	caaatg/
+   1 caac/acac	c/a
+   1 caaccaag/caaccaag	
+   1 caag/	
+   1 caaggt/	
+   1 cac/	
+   1 cac/	cac/cac
+   1 cac/cac	c/c
+   1 cac/cct	c/c
+   1 cac/cgc	t/c
+   1 cac/gga	
+   1 cac/tag	cgc/tag
+   1 cac/tgt	
+   1 cac/tgt	ac/gt
+   5 caca/	
+   1 caca/	caca/caca
+   1 caca/cacaca	/caca
+   1 caca/cacacaca	
+   2 cacaca/	
+   1 cacaca/cacaca	c/a
+   1 cacaca/cacacacaca	/ca
+   2 cacacaca/	
+   1 caccatca/	
+   3 cag/	
+   1 cag/gcc	agca/ccag
+   1 cag/tct	
+   1 cag/ttt	
+   1 caga/caga	caga/
+   1 caggtgctca/caggtgctca	
+   2 cat/	cat/cat
+   1 cat/cgc	at/gc
+   1 cat/cgg	t/c
+   1 cat/tttttttcat	
+   2 cata/	
+   1 catct/catct	catct/
+   1 catg/catg	a/c
+   1 catt/	
+   1 cattat/	cattat/cattat
+   4 cc/	
+   3 cc/	cc/cc
+   1 cc/	ccc/
+   2 cc/aa	
+   1 cc/ac	c/a
+   6 cc/ag	
+   3 cc/at	
+   1 cc/ca	
+   1 cc/ca	c/a
+   1 cc/caa	aa/cc
+   6 cc/cc	
+   1 cc/cc	c/a
+   7 cc/cc	c/c
+   2 cc/cc	cc/
+   1 cc/cc	cc/gg
+   1 cc/cc	gcg/gcg
+   1 cc/ccc	acc/ccc
+   1 cc/cg	c/g
+   1 cc/cg	cc/gg
+   1 cc/cg	cc/tg
+   3 cc/ct	c/t
+   1 cc/ct	ct/ct
+   2 cc/ga	
+   1 cc/gc	c/g
+   1 cc/gc	ct/gc
+   3 cc/gg	
+   1 cc/gg	c/g
+   1 cc/gg	g/c
+   1 cc/gg	g/g
+   2 cc/gt	
+   1 cc/gt	ccc/cgt
+   1 cc/ta	c/a
+   1 cc/tc	
+   3 cc/tc	c/t
+   1 cc/tc	tt/tc
+   6 cc/tg	
+   1 cc/tg	c/g
+   1 cc/tg	cc/cg
+   1 cc/tg	cc/gt
+   1 cc/tg	cg/gg
+   6 cc/tt	
+   1 cc/tt	c/t
+   1 cc/tt	cc/cc
+   1 cc/tt	t/c
+   2 cca/	
+   1 ccaa/ccaa	
+   1 ccaagc/	ccaagc/ccaagc
+   2 ccat/	
+   1 cccac/	
+   1 cccct/	cccct/cccct
+   1 cccctc/	
+   1 cccctggg/	
+   1 cccg/	
+   1 ccct/taag	
+   1 ccct/tcct	
+   1 ccg/aat	
+   1 ccg/taa	
+   1 ccg/tga	
+   1 ccga/	
+   1 ccgatc/	
+   1 ccgatcggc/	
+   1 ccgccg/	
+   1 ccgccgccg/	
+   1 ccgg/	
+   1 ccgt/gggg	ag/gg
+   1 cct/	
+   1 cct/	cct/cct
+   1 cctggtgc/cctggtgc	
+   1 ccttcctt/	
+   1 cg/	
+   1 cg/	cg/cg
+   1 cg/aa	
+   1 cg/ac	
+   1 cg/ag	
+   1 cg/at	/atgatgatg
+   5 cg/ca	g/a
+   1 cg/ca	ta/ca
+   1 cg/ca	tg/ca
+   1 cg/cc	
+   1 cg/cc	g/c
+   2 cg/cg	
+   6 cg/cg	c/c
+   1 cg/cg	ca/cg
+   1 cg/cg	cga/cga
+   1 cg/cg	g/a
+   2 cg/cg	g/c
+   5 cg/cg	g/g
+   1 cg/ct	g/t
+   1 cg/ct	t/c
+   1 cg/ga	
+   1 cg/ga	cg/ca
+   1 cg/gc	ca/gc
+   1 cg/gc	g/g
+   1 cg/gg	
+   1 cg/gg	gg/gg
+   3 cg/gt	
+   3 cg/ta	
+   1 cg/tc	
+   3 cg/tg	
+   1 cg/tg	/
+   3 cg/tg	c/t
+   1 cg/tg	ta/tg
+   1 cg/tg	tg/tg
+   2 cg/tt	
+   1 cga/cga	cga/
+   1 cga/gat	aa/at
+   1 cga/tga	/tga
+   1 cgc/ctc	g/t
+   1 cgc/ggt	
+   1 cgccgc/cgccgc	cgccgc/
+   1 cgccgccgc/	
+   1 cgg/atc	
+   1 cgg/taa	
+   1 cgg/tat	
+   1 cgg/ttc	
+   1 cggagg/	
+   1 cggca/cggca	
+   1 cggcac/	
+   1 cggcgcg/	
+   2 cggg/	
+   1 cgggagaga/	
+   1 cggtgcggtg/	
+   1 cgt/	
+   1 cgt/gcg	
+   1 cgtgag/	cgtgag/cgtgag
+   1 cgtgcgtgtg/	
+   7 ct/	
+   1 ct/	/ttttt
+   5 ct/	ct/ct
+   1 ct/	ctctct/
+   7 ct/aa	
+   1 ct/ac	
+   4 ct/ag	
+   1 ct/ag	t/g
+   1 ct/at	c/a
+   1 ct/ca	aa/ca
+   1 ct/ca	t/a
+   1 ct/cc	
+   7 ct/cc	t/c
+   1 ct/cc	tt/cc
+   1 ct/cg	t/g
+  12 ct/ct	
+   2 ct/ct	at/ct
+   2 ct/ct	c/c
+   3 ct/ct	ct/
+   1 ct/ct	ct/gg
+   1 ct/ct	t/a
+   2 ct/ct	t/t
+   1 ct/ct	tct/tct
+   1 ct/ctaggggccc	/aggggccct
+   2 ct/ga	
+   1 ct/ga	ga/gt
+   1 ct/gc	c/a
+   1 ct/gc	ct/ct
+   4 ct/gg	
+   1 ct/gt	c/g
+   1 ct/gt	t/t
+   4 ct/ta	
+   2 ct/tc	
+   1 ct/tc	c/t
+   1 ct/tc	t/t
+   1 ct/tc	tc/tc
+   6 ct/tg	
+   1 ct/tt	c/t
+   1 ct/tt	cct/ttc
+   1 ct/tt	ct/ct
+   1 ct/tt	tt/tt
+   1 ct/ttt	/t
+   1 cta/cta	
+   1 ctacc/	
+   1 ctat/	ctat/ctat
+   1 ctc/	
+   3 ctc/	ctc/ctc
+   1 ctc/ctc	ctc/
+   2 ctca/	
+   1 ctcagctgt/	
+   1 ctcatctac/	
+   1 ctcc/cttc	cc/ct
+   1 ctcctctgg/	
+   1 ctccttcc/	ctccttcc/ctccttcc
+   4 ctct/	
+   2 ctg/	
+   1 ctg/	ctg/ctg
+   1 ctg/ttg	c/t
+   1 ctgacac/	
+   1 ctgctg/	
+   4 ctt/	
+   1 ctt/	ctt/ctt
+   1 ctt/aca	
+   1 ctt/cct	t/c
+   1 ctt/ctt	cctt/cctt
+   2 ctt/ctt	ctt/
+   1 cttac/cttac	cttac/
+   1 cttct/	
+   1 cttg/	gaa/caa
+   1 cttt/	
+   1 ctttcttc/	
+   1 ctttttat/	
+  41 g/	
+  28 g/	g/g
+1543 g/a	
+   3 g/a	/a
+   1 g/a	/atatt
+   1 g/a	aagggagg/aaggaagg
+   1 g/a	ac/at
+   2 g/a	ag/aa
+   2 g/a	c/a
+   6 g/a	cg/ca
+ 276 g/a	g/g
+   2 g/a	ga/aa
+   5 g/a	gc/ac
+   1 g/a	gcc/acc
+   1 g/a	gg/aa
+   2 g/a	gg/ag
+   4 g/a	gg/ga
+   1 g/a	gggg/aggg
+   2 g/a	gt/at
+   1 g/a	gtc/act
+   1 g/a	tg/ca
+   2 g/a	tg/ta
+   1 g/a	tg/tg
+   1 g/aaag	
+   1 g/aag	
+   2 g/aag	/aa
+   4 g/ag	
+   2 g/ag	a/g
+ 617 g/c	
+   1 g/c	/attgcactcg
+   1 g/c	/c
+   1 g/c	ag/ac
+   1 g/c	ag/gc
+   2 g/c	cg/cc
+   1 g/c	cg/cg
+   1 g/c	g/ccca
+ 103 g/c	g/g
+   1 g/c	ga/cc
+   1 g/c	gg/cg
+   2 g/c	gg/gc
+   2 g/c	gt/ct
+   1 g/c	tg/ac
+   1 g/c	tg/tc
+1460 g/g	
+   1 g/g	/a
+   1 g/g	/cacacaca
+   1 g/g	/g
+   1 g/g	/ga
+   1 g/g	/gctgg
+   1 g/g	/t
+   3 g/g	ag/ag
+   1 g/g	ag/cg
+   1 g/g	ag/tg
+   1 g/g	c/g
+   4 g/g	cg/cg
+   1 g/g	cg/gg
+   2 g/g	cg/tg
+  32 g/g	g/
+ 524 g/g	g/a
+ 163 g/g	g/c
+   1 g/g	g/gg
+ 100 g/g	g/t
+   4 g/g	ga/ga
+   1 g/g	ga/gg
+   2 g/g	gc/gc
+   2 g/g	gg/ag
+   5 g/g	gg/gg
+   3 g/g	gt/gt
+   1 g/g	gt/gtgtgt
+   1 g/g	tg/tg
+   1 g/gg	/
+   1 g/ggg	/gg
+   1 g/gtattaagg	
+ 469 g/t	
+   1 g/t	ag/at
+   1 g/t	c/t
+   2 g/t	cg/ct
+   1 g/t	g/a
+   3 g/t	g/c
+  53 g/t	g/g
+   1 g/t	ga/ta
+   2 g/t	gc/tc
+   1 g/t	gc/tt
+   1 g/t	gg/gt
+   1 g/t	gg/ta
+   1 g/t	gg/tg
+   1 g/t	gg/tt
+   1 g/t	gt/gt
+   1 g/t	gt/tg
+   1 g/t	tg/cc
+   2 g/t	tg/tt
+   1 g/t	tgt/ttg
+   1 g/t	tgt/ttt
+   2 g/tg	
+   1 g/tg	/t
+   1 g/tt	tg/ttg
+   1 g/ttg	t/ttt
+   1 g/ttttg	/tttt
+   6 ga/	
+   3 ga/	ga/ga
+   1 ga/aa	
+   1 ga/aa	g/a
+   2 ga/ac	
+   3 ga/ag	
+   1 ga/aga	a/g
+   3 ga/at	
+   1 ga/ca	g/c
+   2 ga/cc	
+   1 ga/cg	
+   2 ga/ct	
+   8 ga/ga	
+   1 ga/ga	a/g
+   1 ga/ga	g/g
+   4 ga/ga	ga/
+   1 ga/ga	ga/ac
+   2 ga/ga	ga/ag
+   1 ga/ga	ga/gc
+   3 ga/gc	
+   1 ga/gc	aa/gc
+   1 ga/gc	c/g
+   5 ga/gg	
+   2 ga/gg	a/g
+   1 ga/gt	a/a
+   1 ga/gt	at/ga
+   1 ga/tc	
+   5 ga/tg	
+   1 ga/tg	g/t
+   2 ga/tt	
+   1 ga/ttga	/tttt
+   2 gaa/	
+   1 gaa/aaagaa	
+   1 gaa/aca	
+   5 gaaa/	
+   1 gaaa/gaaa	ga/ga
+   1 gaaaa/gaaaa	gaaaa/
+   1 gaaaa/gaaag	a/g
+   1 gaaaaa/tttttg	
+   1 gaaag/	
+   1 gaag/	gaag/gaag
+   1 gaaga/	
+   1 gac/aaa	
+   1 gac/agt	g/a
+   1 gac/gat	
+   1 gac/tac	
+   1 gacatt/	gacatt/gacatt
+   3 gag/	
+   2 gag/	gag/gag
+   1 gag/ata	
+   1 gag/tga	
+   1 gaga/gaga	
+   1 gagagaga/	
+   1 gagagagaga/aagagagaga	g/a
+   1 gaggag/	
+   1 gagt/	
+   1 gat/	
+   1 gat/	gat/gat
+   1 gat/acc	g/a
+   1 gat/ccc	
+   1 gat/cta	
+   1 gat/ctg	
+   1 gat/gat	
+   1 gat/gtg	g/t
+   1 gat/tgc	
+   1 gata/	
+   1 gataa/gataa	
+   1 gatagataga/	
+   2 gatct/	
+   1 gatggtaa/	
+   1 gatgtt/	g/gatgtt
+   2 gatt/	
+   1 gattg/gattg	gattg/
+   2 gc/	
+   2 gc/aa	
+   1 gc/aa	agc/aaa
+   1 gc/aa	gc/gc
+   1 gc/aaagc	/aaaaa
+   3 gc/ac	g/a
+   1 gc/ac	gccc/gccc
+   1 gc/ag	
+   2 gc/at	
+   1 gc/at	ac/at
+   2 gc/at	g/a
+   1 gc/ca	g/c
+   2 gc/cc	
+   1 gc/cc	g/c
+   1 gc/ct	gc/gc
+   1 gc/ga	
+   1 gc/ga	c/a
+   5 gc/gc	
+   6 gc/gc	c/c
+   1 gc/gc	cgc/cgc
+   1 gc/gc	g/a
+   2 gc/gc	g/g
+   1 gc/gc	gc/cg
+   1 gc/gc	gc/tt
+   1 gc/gc	gt/gt
+   2 gc/gg	c/g
+   1 gc/gt	at/gt
+   3 gc/gt	c/t
+   3 gc/ta	
+   1 gc/ta	g/t
+   2 gc/tc	
+   1 gc/tc	g/t
+   1 gc/tg	g/t
+   1 gc/tg	gc/gc
+   1 gc/tg	t/g
+   1 gca/ccg	
+   1 gca/gcg	a/a
+   1 gca/tct	g/t
+   1 gcacc/	
+   1 gcag/gtgg	
+   1 gcat/	
+   1 gcc/act	
+   1 gcc/cta	
+   1 gcc/gcc	gcc/
+   1 gcca/	
+   1 gccgg/	
+   1 gcctgaatga/gcctgaatga	
+   1 gcg/	
+   1 gcg/cca	
+   1 gcg/gct	atg/gct
+   1 gcggactc/	gcggactc/gcggactc
+   1 gcggct/	
+   2 gct/	
+   1 gct/act	
+   2 gct/gct	
+   1 gcta/	
+   1 gctc/ggct	g/c
+  10 gg/	
+   7 gg/aa	
+   1 gg/aa	g/a
+   3 gg/ac	
+   1 gg/ag	ac/ag
+   3 gg/ag	g/a
+   1 gg/ag	ga/ag
+   1 gg/at	
+   4 gg/ca	
+   4 gg/cc	
+   2 gg/ct	
+   1 gg/ga	
+   1 gg/ga	g/a
+   1 gg/gc	a/g
+   8 gg/gg	
+   1 gg/gg	ag/gg
+   1 gg/gg	g/a
+   3 gg/gg	g/g
+   1 gg/gg	g/t
+   2 gg/gg	gg/
+   1 gg/gg	gg/aa
+   2 gg/gt	g/t
+   1 gg/gt	gc/gt
+   2 gg/ta	
+   1 gg/ta	g/a
+   3 gg/tc	
+   1 gg/tg	
+   2 gg/tt	
+   1 gg/ttgg	
+   1 gga/	
+   1 gga/aga	gg/ag
+   1 gga/cac	
+   1 ggacc/tgtgt	g/t
+   1 ggc/act	g/a
+   1 ggc/ctc	ggg/ctc
+   1 ggc/ggc	ggc/
+   1 ggcagta/	
+   1 ggcgg/	
+   1 ggctccggg/	
+   1 ggctcgtg/	ggctcgtg/ggctcgtg
+   1 ggg/	ggg/ggg
+   1 ggg/cca	
+   1 ggg/ctc	
+   1 gggcccaa/	
+   1 gggg/aggg	g/a
+   1 gggg/ctcc	/tccc
+   1 gggg/tttt	g/t
+   1 ggta/tttt	
+   1 ggttt/	
+   1 ggtttctgg/	ggtttctgg/ggtttctgg
+  14 gt/	
+   1 gt/	gt/gt
+   1 gt/	gtgt/
+   1 gt/	gtgtgtgtgt/
+   3 gt/aa	
+   1 gt/aa	g/a
+   1 gt/aa	gt/gt
+   1 gt/aa	t/a
+   1 gt/aagt	/a
+   1 gt/aagt	/aa
+   7 gt/ac	
+   2 gt/ac	gt/gt
+   1 gt/ag	
+   1 gt/at	
+   1 gt/at	g/a
+   1 gt/at	gt/gt
+   1 gt/ca	
+   2 gt/cc	gc/cc
+   1 gt/cg	
+   1 gt/cg	gg/gt
+   1 gt/ct	
+   1 gt/ct	g/c
+   1 gt/gc	
+   1 gt/gc	ct/gc
+   1 gt/gc	t/c
+   2 gt/gg	
+   1 gt/gg	t/g
+  12 gt/gt	
+   1 gt/gt	/gtgtgt
+   1 gt/gt	g/a
+   4 gt/gt	g/g
+   1 gt/gt	gc/gt
+   1 gt/gt	gt/aa
+   1 gt/gt	gt/tg
+   2 gt/gt	t/t
+   1 gt/gtgt	/gt
+   1 gt/gtgt	/gtgt
+   1 gt/gtgt	a/gta
+   1 gt/gtgtgt	/
+   1 gt/gtgtgt	/gtgtgt
+   1 gt/gtgtgt	g/g
+   1 gt/gtgtgtgt	/gtgt
+   1 gt/ta	
+   2 gt/tg	
+   2 gt/tg	g/t
+   1 gt/tt	g/t
+   1 gta/	gta/gta
+   1 gta/gta	gta/
+   1 gtaa/	
+   1 gtaa/	gtaa/gtaa
+   1 gtactaca/	
+   1 gtatgt/gtgtgtatgt	
+   1 gtc/gtc	
+   1 gtc/tct	gt/tc
+   1 gtca/	
+   1 gtct/	
+   1 gtctc/	
+   1 gtctctg/	
+   1 gtctt/gtctt	
+   1 gtg/gggtg	ggg/ggt
+   1 gtg/gtg	
+   1 gtg/gtg	gtg/
+   1 gtg/tgc	
+   1 gtg/tgt	tg/gt
+   1 gtgg/gtga	tgg/tgg
+   5 gtgt/	
+   2 gtgt/	gt/
+   1 gtgt/	gtgtgt/
+   1 gtgt/gtgt	/gtgt
+   1 gtgt/gtgt	/gtgtgt
+   1 gtgt/gtgt	gtgt/
+   1 gtgt/gtgtgt	
+   1 gtgtgt/	
+   1 gtgtgtgt/	gtgtgt/gtgtgt
+   1 gtgtgtgtgt/	
+   1 gtgtgtgtgt/	gtgt/
+   1 gtgtt/	
+   2 gtt/	
+   1 gtt/gtt	
+   1 gtt/gtt	gtt/
+   1 gttaagg/	
+   1 gttgcctg/	gttgcctg/gttgcctg
+   1 gttgt/	gttgt/gttgt
+   1 gttt/	
+   1 gttt/cttt	
+   1 gttt/gttt	
+   2 gtttgttt/	
+   3 gtttt/	
+   1 gtttt/gtttt	
+   1 gtttttt/	
+ 210 t/	
+  46 t/	t/t
+   1 t/	t/tt
+   1 t/	t/ttt
+   2 t/	tt/
+ 448 t/a	
+   1 t/a	/a
+   1 t/a	/ac
+   1 t/a	/tgtgtgtgtg
+   1 t/a	a/a
+   1 t/a	aa/tt
+   1 t/a	aat/atg
+   1 t/a	c/t
+  48 t/a	t/t
+   1 t/a	tc/ac
+   1 t/a	tt/aa
+   1 t/a	tt/ta
+   1 t/aaat	aa/aaa
+2095 t/c	
+   1 t/c	/ccgccg
+   1 t/c	/cgctgctgc
+   1 t/c	/ctt
+   1 t/c	/cttt
+   2 t/c	a/c
+   1 t/c	a/t
+   4 t/c	at/ac
+   1 t/c	at/gt
+   1 t/c	at/tg
+   1 t/c	ca/cg
+   1 t/c	cacac/cacat
+   1 t/c	cca/cgc
+   6 t/c	ct/cc
+   1 t/c	g/c
+   1 t/c	gt/cc
+   2 t/c	gt/gc
+ 328 t/c	t/t
+   3 t/c	ta/ca
+   1 t/c	tag/cag
+   3 t/c	tc/cc
+   1 t/c	tc/ct
+   1 t/c	tg/ca
+   1 t/c	tg/cc
+   7 t/c	tg/cg
+   1 t/c	tg/tg
+   2 t/c	tg/tt
+   1 t/c	tgc/cag
+   1 t/c	tt/cc
+   2 t/c	tt/ct
+   2 t/c	tt/tc
+   1 t/ct	tt/ct
+   1 t/ctct	/ctc
+   1 t/ctt	/t
+ 595 t/g	
+   1 t/g	/g
+   1 t/g	/gtg
+   1 t/g	/gtgtgtgt
+   1 t/g	a/g
+   1 t/g	at/ag
+   1 t/g	c/g
+   1 t/g	ct/ag
+   1 t/g	ct/cg
+  88 t/g	t/t
+   1 t/g	ta/ga
+   2 t/g	tc/gc
+   1 t/g	tg/gt
+   1 t/g	tt/ga
+   1 t/g	tt/tg
+   1 t/g	ttt/tgt
+   1 t/gc	
+   1 t/gggt	/gggt
+   2 t/gt	/g
+   1 t/gtt	t/gt
+1435 t/t	
+   5 t/t	/
+   1 t/t	/atta
+   1 t/t	/t
+   2 t/t	/tt
+   1 t/t	a/a
+   1 t/t	aa/tt
+   1 t/t	at/ag
+   1 t/t	at/at
+   1 t/t	at/gt
+   1 t/t	atg/ctt
+   1 t/t	c/a
+   2 t/t	ct/ct
+   1 t/t	ct/tg
+   2 t/t	gt/gt
+  41 t/t	t/
+  69 t/t	t/a
+ 537 t/t	t/c
+  98 t/t	t/g
+   2 t/t	ta/ta
+   1 t/t	tc/tc
+   1 t/t	tg/aa
+   2 t/t	tg/cg
+   6 t/t	tg/tg
+   1 t/t	tgtactgc/tgtactgc
+   3 t/t	tt/tt
+   1 t/tcct	tcct/
+   1 t/tgc	
+  26 t/tt	
+   3 t/tt	/
+   1 t/tt	/at
+  22 t/tt	/t
+  12 t/tt	/tt
+   1 t/tt	g/ttg
+   1 t/tt	t/
+   1 t/tt	t/t
+   1 t/tt	t/ttt
+   1 t/tt	tc/ttc
+   1 t/tt	tt/tt
+   1 t/tt	ttt/tttt
+   4 t/ttt	
+   1 t/ttt	/
+   2 t/ttt	/t
+   4 t/ttt	/tt
+   1 t/ttt	/ttt
+   2 t/ttt	/tttt
+   1 t/ttt	a/t
+   1 t/ttt	t/tt
+   1 t/tttt	
+   1 t/tttt	/
+   1 t/tttt	t/ttttt
+   1 t/tttt	ttt/ttt
+   1 t/tttt	ttt/tttttt
+   1 t/ttttt	/ttt
+   1 t/ttttttt	
+   1 t/ttttttt	tt/ttttttt
+   4 ta/	
+   1 ta/	ta/ta
+   1 ta/aa	
+   1 ta/aa	t/a
+   1 ta/ac	
+   1 ta/ag	
+   1 ta/at	
+   1 ta/ca	
+   1 ta/ca	c/a
+   4 ta/ca	t/c
+   1 ta/cc	
+   3 ta/cg	
+   1 ta/cg	a/g
+   1 ta/ct	
+   2 ta/ga	
+   1 ta/ga	t/g
+   2 ta/gg	
+   1 ta/gt	
+   5 ta/ta	
+   2 ta/ta	a/a
+   1 ta/ta	a/c
+   1 ta/ta	t/t
+   1 ta/ta	ta/
+   2 ta/tg	
+   3 ta/tg	a/g
+   1 ta/tg	a/t
+   1 ta/tg	t/t
+   2 ta/tt	a/t
+   1 taa/	
+   1 taa/gag	
+   2 taaa/	
+   1 taaa/	taaa/taaa
+   1 taaa/taaa	
+   1 taag/	taag/taag
+   1 taag/taag	
+   1 taagttt/	
+   1 taat/	
+   1 taat/	taat/taat
+   1 taatca/	taatca/taatca
+   1 taatcat/taatcat	taatcat/
+   1 tac/	
+   1 tac/tac	
+   1 tac/tac	c/c
+   1 tac/tac	tac/
+   1 taca/	
+   1 taca/	aaca/taca
+   1 taca/caca	/
+   1 tacca/	
+   1 tacca/tacca	t/t
+   1 tag/	
+   1 tag/cag	t/c
+   1 tag/tag	
+   1 tagaaagag/	
+   1 tagacagagc/	
+   1 tat/	
+   1 tat/ggt	c/t
+   2 tat/tat	tat/
+   1 tata/	
+   1 tatagaatg/	
+   1 tataggt/tataggt	
+   1 tatg/tatg	
+   1 tatggttgtg/	
+   1 tatt/tatt	tatt/
+   1 tattc/cattc	t/c
+   4 tc/	
+   3 tc/	tc/tc
+   4 tc/aa	
+   1 tc/ac	t/a
+   1 tc/ag	
+   2 tc/at	
+   2 tc/ca	
+   3 tc/cc	t/c
+   3 tc/cg	
+   3 tc/ct	
+   1 tc/ct	t/c
+   1 tc/ct	tc/tc
+   3 tc/ga	
+   1 tc/gc	t/g
+   6 tc/gg	
+   1 tc/gt	
+   1 tc/gt	gt/tg
+   2 tc/tc	
+   1 tc/tc	c/c
+   2 tc/tc	t/t
+   1 tc/tc	t/tc
+   1 tc/tc	tc/
+   1 tc/tc	tc/ag
+   1 tc/tc	tc/ca
+   1 tc/tc	tc/ct
+   1 tc/tc	tc/tt
+   1 tc/tg	
+   1 tc/tg	c/c
+   1 tc/tg	c/g
+   1 tc/tt	
+   4 tc/tt	c/t
+   1 tca/	
+   1 tca/tag	
+   1 tcaa/tcaa	
+   1 tcaaa/	
+   1 tcaaa/tgtgt	
+   1 tcaaatatac/	
+   1 tcacacac/	
+   2 tcag/	tcag/tcag
+   1 tcag/tcga	
+   1 tcaga/	
+   1 tcatca/	
+   1 tcatgtctgc/	
+   1 tcc/	
+   1 tcc/ata	c/a
+   1 tcc/tcc	/tcc
+   1 tcc/tgc	
+   1 tcca/	
+   1 tccacc/	
+   1 tccacc/	tccacc/tccacc
+   1 tcccca/ttgttg	
+   1 tccgcgcggc/tccgcgcggc	
+   1 tccgt/tctgt	c/t
+   1 tcctct/	
+   1 tcg/	
+   1 tct/	
+   1 tct/	tct/tct
+   1 tct/aag	
+   1 tct/gga	
+   1 tct/tcc	t/c
+   2 tct/tct	tct/
+   1 tctc/	tctc/tctc
+   1 tctc/tctc	
+   1 tctca/	
+   1 tctg/	tctg/tctg
+   2 tctt/	tctt/tctt
+   1 tctt/tctt	tctt/
+   1 tcttggaga/	
+  16 tg/	
+   2 tg/	tg/tg
+   1 tg/aa	
+   1 tg/ac	
+   3 tg/at	
+  13 tg/ca	
+   2 tg/ca	cg/ca
+   1 tg/ca	g/a
+   3 tg/ca	t/c
+   1 tg/ca	ta/ca
+   2 tg/ca	tg/tg
+   6 tg/cc	
+   3 tg/cg	
+   2 tg/cg	a/g
+   3 tg/cg	ca/cg
+   1 tg/cg	ca/tg
+   6 tg/cg	t/c
+   1 tg/cg	t/t
+   5 tg/ct	
+   1 tg/ct	cg/ct
+   1 tg/ct	g/t
+   1 tg/ct	t/c
+   1 tg/ct	tg/tg
+   2 tg/ga	
+   1 tg/gc	
+   2 tg/gg	t/g
+   1 tg/gt	
+   1 tg/ta	/ta
+   3 tg/ta	g/a
+   6 tg/tg	
+   1 tg/tg	cg/tg
+   1 tg/tg	g/g
+   1 tg/tg	t/c
+   4 tg/tg	t/t
+   6 tg/tg	tg/
+   3 tg/tg	tg/ca
+   1 tg/tg	tg/cc
+   1 tg/tgtg	
+   1 tg/tgtg	/tg
+   1 tg/tgtg	/tgtg
+   1 tg/tgtg	c/tgc
+   1 tg/tgtgtg	/tgtg
+   1 tga/cag	
+   1 tga/tga	tga/
+   1 tgacatc/	
+   1 tgag/tgtg	a/t
+   1 tgat/	
+   1 tgatttc/	
+   1 tgc/	
+   1 tgc/gca	tgc/tgc
+   1 tgc/tgc	
+   1 tgc/tgc	tgc/
+   1 tgc/tttgc	ttc/tttgc
+   1 tgca/cacg	tg/ca
+   1 tgcagc/	
+   1 tgcccc/tgcccc	
+   1 tgccct/	
+   1 tgcgcgc/tgcgcgc	t/c
+   1 tgg/	tgg/tgg
+   1 tgg/tgg	gg/ca
+   1 tgg/tgg	tgg/
+   1 tggacaagtg/	
+   2 tggg/	
+   2 tgt/	
+   1 tgt/tgt	
+   1 tgt/tgt	t/t
+   2 tgt/tgt	tgt/
+   1 tgt/ttt	
+   1 tgta/	tgta/tgta
+   1 tgtcatggg/	
+   4 tgtg/	
+   1 tgtg/tgtg	
+   1 tgtg/tgtg	/tgtg
+   1 tgtgag/	
+   2 tgtgtg/	
+   1 tgtgtg/	tg/tgtgtgtg
+   1 tgtgtg/tgtgcg	t/c
+   1 tgtgtgtg/	
+   1 tgtgtgtg/	tgtgtg/
+   1 tgtt/tgtt	
+   1 tgtttcacc/	
+   1 tgttttgttt/	
+  15 tt/	
+   5 tt/	t/
+   1 tt/	tt/tt
+   1 tt/aa	
+   2 tt/ac	
+   1 tt/ac	tc/ac
+  10 tt/ag	
+   8 tt/ca	
+  10 tt/cc	
+   3 tt/cc	tt/tt
+   3 tt/ct	
+   1 tt/ct	tttt/ttttc
+   7 tt/ga	
+   1 tt/ga	gcg/gag
+   5 tt/gc	
+   2 tt/gc	t/g
+   1 tt/gc	tc/gc
+   4 tt/gg	
+   1 tt/gg	tt/cg
+   2 tt/gt	t/g
+   1 tt/gt	t/t
+   1 tt/gt	ttc/tttt
+   1 tt/gtt	
+   1 tt/ta	t/tttt
+   2 tt/tc	
+   3 tt/tc	t/c
+   1 tt/tc	t/t
+   1 tt/tc	tt/ttc
+   3 tt/tg	
+   3 tt/tg	t/g
+   9 tt/tt	
+   2 tt/tt	t/t
+   3 tt/tt	tt/
+   1 tt/tt	tt/ga
+   1 tt/tt	tt/gc
+   1 tt/ttgc	
+   2 tt/ttt	
+   3 tt/ttt	/t
+   3 tt/ttt	/tt
+   1 tt/ttt	/ttt
+   1 tt/ttt	ttt/tttt
+   2 tt/tttt	
+   1 tt/tttt	/tt
+   1 tt/tttt	t/t
+   1 tt/tttt	tt/ttt
+   1 tt/tttt	tttt/ttttttt
+   1 ttaa/	
+   1 ttaa/	ttaa/ttaa
+   1 ttaa/ttaa	ttaa/
+   1 ttaaa/ttaaa	ttaaa/
+   2 ttac/ttac	ttac/
+   1 ttactcttt/	
+   1 ttat/	
+   1 ttata/	
+   1 ttata/ttata	
+   1 ttatg/	
+   1 ttc/tttc	c/tc
+   1 ttca/	
+   1 ttct/	
+   1 ttctct/	
+   1 ttg/cca	
+   1 ttg/ttg	
+   1 ttg/tttg	
+   1 ttgaa/	
+   1 ttgagggat/	ttgagggat/ttgagggat
+   1 ttgc/tttttgc	g/ttttg
+   1 ttgtt/	ttgtt/ttgtt
+   4 ttt/	
+   1 ttt/	ttt/ttt
+   1 ttt/acc	
+   1 ttt/agc	
+   1 ttt/ctt	t/c
+   1 ttt/gcc	
+   1 ttt/gct	
+   1 ttt/ggc	
+   1 ttt/gta	
+   1 ttt/tgg	
+   1 ttt/tta	a/tta
+   1 ttt/tta	tt/ta
+   1 ttt/ttttttt	tttg/ttttttg
+   1 ttta/ttta	ttta/
+   1 tttc/	
+   2 tttg/	
+   2 tttt/	
+   1 tttt/	ttt/tttt
+   1 tttt/cttt	t/cctttttt
+   1 tttt/ggaa	ctttt/tggaa
+   1 tttt/tgtc	t/g
+   1 tttt/tttt	tttt/
+   1 tttta/	tttta/tttta
+   1 ttttac/ttttac	
+   1 ttttc/	
+   2 ttttt/	
+   1 ttttta/	
+   1 tttttt/	
+   1 var_seq_cancer	var_seq_normal
