@@ -4,7 +4,7 @@ Genomic analysis of HPV-induced oropharyngeal cancer (paired tumor/normal sample
 
 Raw data are available from NCBI SRA #SRP081299
 
-Associated publication: [Kannan, A., Hertweck, K.L., Philley, J.V., Wells, R.B. and Dasgupta, S., 2017. Genetic Mutation and Exosome Signature of Human Papilloma Virus Associated Oropharyngeal Cancer. Scientific Reports, 7.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5382706/)a
+Associated publication: [Kannan, A., Hertweck, K.L., Philley, J.V., Wells, R.B. and Dasgupta, S., 2017. Genetic Mutation and Exosome Signature of Human Papilloma Virus Associated Oropharyngeal Cancer. Scientific Reports, 7.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5382706/)
 
 Workflow:
 * sequencing, SNP calling and annotation performed by Otogenetics (http://www.otogenetics.com)
