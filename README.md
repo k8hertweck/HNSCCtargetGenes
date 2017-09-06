@@ -8,7 +8,7 @@ Associated publication: [Kannan, A., Hertweck, K.L., Philley, J.V., Wells, R.B. 
 
 Workflow:
 * sequencing, SNP calling and annotation performed by Otogenetics (http://www.otogenetics.com)
-* raw sequence data can be found at NCBI SRA #SRP081299
+* raw sequence data can be found at NCBI SRA [SRP081299](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA338651)
 * `data/` contains:
 	* `Ot6699_Ot6700_Santanu.Dasgupta_300-923_hEx-AV4_30x_01132013_Cancer_Nucleotide_Variation`: somatic variation, includes somatic variants and loss of heterozygotes (
 	* `variantTypes.txt`: all possible variants (comparing normal and cancer)
